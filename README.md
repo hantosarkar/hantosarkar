@@ -3,6 +3,10 @@
 <img src="https://raw.githubusercontent.com/hantosarkar/hantosarkar/refs/heads/main/hantosarkar/images/banner.png">
 
 
+<a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=Abdus%20Shobhan&theme=merko" alt="GitHub Streak" /></a>
+
+
+
 ## About Me👋
 
 - 🔭 I’m currently working on React , Express , Node , C# , .Net Core etc 
@@ -10,8 +14,6 @@
 - 👯 I’m looking to collaborate on public
 - 📫 How to reach me -abdusshobhan.4444@gmail.com
 
-
-<a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=Abdus%20Shobhan&theme=merko" alt="GitHub Streak" /></a>
 
 
 ## Tech Stack
