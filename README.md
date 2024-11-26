@@ -3,9 +3,7 @@
 <img src="https://raw.githubusercontent.com/hantosarkar/hantosarkar/refs/heads/main/hantosarkar/images/banner.png">
 
 
-<a href="https://git.io/streak-stats"><img src="https://github.com/hantosarkar?user=Abdus%20Shobhan&theme=merko" alt="GitHub Streak" /></a>
-
-
+<a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=Abdus%20Shobhan&theme=highcontrast" alt="GitHub Streak" /></a>
 
 ## About Me👋
 
