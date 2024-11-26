@@ -11,6 +11,9 @@
 - 📫 How to reach me -abdusshobhan.4444@gmail.com
 
 
+<a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=Abdus%20Shobhan&theme=merko" alt="GitHub Streak" /></a>
+
+
 ## Tech Stack
 - **Frontend:** React, Next.js, etc.
 - **Backend:** Node.js, Express, etc.
